@@ -17,7 +17,7 @@ You can install the required dependencies using the following command:
 `pip install -r requirements.txt`
 
 # Usage
-You can use the main.py file to detect emotions from real-time video streams. To detect emotions from a real-time video stream, run the following command:
+You can use the **main.py** file to detect emotions from real-time video streams. To detect emotions from a real-time video stream, run the following command:
 
 `python main.py`
 
