@@ -22,7 +22,7 @@ You can use the **main.py** file to detect emotions from real-time video streams
 `python main.py`
 
 # Results
-The model achieves an accuracy of around 65% on the validation set. For reference, Human performance on this dataset is estimated to be 65.5 %.
+The model achieves an accuracy of around 65% on the validation set. For reference, Human performance on this dataset is estimated to be 65.5%.
 
 The accuracy can be improved by using more sophisticated architecture or by fine tuning the hyperparameters or by increasing the size of the dataset. 
 
