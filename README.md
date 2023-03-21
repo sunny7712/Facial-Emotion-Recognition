@@ -1,6 +1,6 @@
 # Facial-Emotion-Recognition
 
-Facial Emotion Recognition is a project that uses machine learning algorithms to detect emotions from facial expressions. This project aims to develop an application that can detect emotions from a real-time video stream. It uses Deep Learning Technique like the Covolutional Neural Networks to train the model.
+Facial Emotion Recognition is a project that uses machine learning algorithms to detect emotions from facial expressions. This project aims to develop an application that can detect emotions from a real-time video stream. It uses Deep Learning Techniques like the Covolutional Neural Networks to train the model.
 
 # Dataset
 The dataset used in this project is the Emotion Detection dataset. The dataset contain 35,685 examples of 48x48 pixel gray scale images of faces divided into train and test dataset. Images are categorized based on the emotion shown in the facial expressions (happiness, neutral, sadness, anger, surprise, disgust, fear).
