@@ -29,11 +29,11 @@ The accuracy can be improved by using more sophisticated architecture or by fine
 I have used the Haar Cascade model in OpenCV library for face detection.
 
 # Future Work
-Improving the accuracy of the model
+- Improving the accuracy of the model
 
-Developing a user-friendly application for real-time emotion detection
+- Developing a user-friendly application for real-time emotion detection
 
-Integrating the model with a robot or virtual assistant to recognize emotions and respond accordingly
+- Integrating the model with a robot or virtual assistant to recognize emotions and respond accordingly
 
 # Credits
 The Emotion Recognition dataset was inspired from the FER-2013 dataset.
