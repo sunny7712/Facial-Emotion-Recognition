@@ -3,7 +3,7 @@
 Facial Emotion Recognition is a project that uses machine learning algorithms to detect emotions from facial expressions. This project aims to develop an application that can detect emotions from a real-time video stream. It uses Deep Learning Techniques like the Covolutional Neural Networks to train the model.
 
 # Dataset
-The dataset used in this project is the Emotion Detection dataset. The dataset contain 35,685 examples of 48x48 pixel gray scale images of faces divided into train and test dataset. Images are categorized based on the emotion shown in the facial expressions (happiness, neutral, sadness, anger, surprise, disgust, fear).
+The dataset used in this project is the FER2013 (Facial Expression Recognition 2013 Dataset) dataset. The dataset contain 35,685 examples of 48x48 pixel gray scale images of faces divided into train and test dataset. Images are categorized based on the emotion shown in the facial expressions (happiness, neutral, sadness, anger, surprise, disgust, fear).
 
 # Dependencies
 - Python 3.7 or higher
@@ -36,6 +36,6 @@ I have used the Haar Cascade model in OpenCV library for face detection.
 - Integrating the model with a robot or virtual assistant to recognize emotions and respond accordingly
 
 # Credits
-The Emotion Recognition dataset was inspired from the FER-2013 dataset.
+The dataset was Introduced by Goodfellow et al. in **Challenges in Representation Learning: A report on three machine learning contests**
 
 The model architecture was inspired from a Kaggle User AAYUSH MISHRA.
