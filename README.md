@@ -1,3 +1,7 @@
+# Kaggle Notebook
+Please visit the following notebook to see the output of the code cells: https://www.kaggle.com/code/sunny7712/easy-vqa
+
+
 # Facial-Emotion-Recognition
 
 Facial Emotion Recognition is a project that uses machine learning algorithms to detect emotions from facial expressions. This project aims to develop an application that can detect emotions from a real-time video stream. It uses Deep Learning Techniques like the Covolutional Neural Networks to train the model.
